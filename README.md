@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**FilledStacks/FilledStacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dane Mackier. I am the creator of FilledStacks. 
 
-Here are some ideas to get you started:
+- 🔭 Over 2.7 million views
+- 🌱 Over 1.1 million blog sessions
+- ⭐️ Over 5k stars in github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We also have a course:
+- [Learn everything about Flutter web using stacked](https://dane-mackier-s-school.teachable.com/p/master-flutter-on-the-web)
+- If you just want to support then I would appreciate a purchase of the course as well. 
+
+
+
